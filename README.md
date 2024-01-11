@@ -11,3 +11,13 @@ This is supposed to be done with linear regression as we will be using just 2 va
 <li>Dataset for this model can be found at : http://bit.ly/w-data.</br>
 <li>Code for this model can be found at : <a href = "https://github.com/EngFrenzy/-The_Spark_Foundation_Internship/blob/main/Task%201/Prediction%20using%20Supervised%20ML%20-%20Jupyter%20Notebook%20.mp4">Task_1_Code</a>.</br>
 <li>Video for this model can be found at : <a href = "https://github.com/HaseebRajput007/The-Spark-Foundation-Internship/blob/main/Task1/TSF%20Task_1.mp4">Task_1_Video</a>.</br>
+
+## Technical : Task 2 - Prediction using Unsupervised ML (Level - Beginner)
+### Predict the optimum number of clusters, from the given "iris" dataset and represent it visually.
+I will be implementing this with the help of K-Means Clustering algorithm. </br>
+<li>Dataset for this model can be found at : https://bit.ly/3kXTdox.</br>
+<li>Code for this model can be found at : <a href = "https://github.com/EngFrenzy/-The_Spark_Foundation_Internship/blob/main/Task_2/Prediction%20using%20Unsupervised%20ML.ipynb">Task_2_Code</a>.</br>
+<li>Video for this model can be found at : <a href = "https://github.com/EngFrenzy/-The_Spark_Foundation_Internship/blob/main/Task_2/Prediction%20using%20Unsupervised%20ML%20-%20Jupyter%20Notebook%20.mp4">Task_2_Video</a>.</br>
+
+### What are we supposed to do with the given dataset?
+We need to predict the optimum number of clusters and it's visualization.
